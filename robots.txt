@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mironovb.github.io/al-folio/sitemap.xml
+Sitemap: https://mironovb.github.io/sitemap.xml
